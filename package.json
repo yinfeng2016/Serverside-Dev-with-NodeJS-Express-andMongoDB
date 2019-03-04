@@ -1,0 +1,23 @@
+{
+  "name": "git-test",
+  "version": "1.0.0",
+  "description": "\"# Serverside-Dev-with-NodeJS-Express-andMongoDB\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yinfeng2016/Serverside-Dev-with-NodeJS-Express-andMongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yinfeng2016/Serverside-Dev-with-NodeJS-Express-andMongoDB/issues"
+  },
+  "homepage": "https://github.com/yinfeng2016/Serverside-Dev-with-NodeJS-Express-andMongoDB#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
